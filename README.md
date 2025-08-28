@@ -1,0 +1,1 @@
+Smart Health Assistant is a web app that helps users calculate their BMI and provides personalized health advice, meal plans, and workout routines. It uses AI to offer smart recommendations to support a healthier lifestyle.
